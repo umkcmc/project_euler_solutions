@@ -11,4 +11,5 @@ def solution(n=4e6):
     return s
 
 
-print(solution())
+# 4613732
+print(solution()) 
