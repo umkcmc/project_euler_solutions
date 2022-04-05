@@ -16,4 +16,5 @@ def solution(n=1000):
     ) // 2
 
 
+# 233168
 print(solution())
